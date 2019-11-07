@@ -1,0 +1,11 @@
+D:\Repository\Master\Console input and output\bin\Debug\netcoreapp2.1\Console input and output.deps.json
+D:\Repository\Master\Console input and output\bin\Debug\netcoreapp2.1\Console input and output.runtimeconfig.json
+D:\Repository\Master\Console input and output\bin\Debug\netcoreapp2.1\Console input and output.runtimeconfig.dev.json
+D:\Repository\Master\Console input and output\bin\Debug\netcoreapp2.1\Console input and output.dll
+D:\Repository\Master\Console input and output\bin\Debug\netcoreapp2.1\Console input and output.pdb
+D:\Repository\Master\Console input and output\obj\Debug\netcoreapp2.1\Console input and output.csprojAssemblyReference.cache
+D:\Repository\Master\Console input and output\obj\Debug\netcoreapp2.1\Console input and output.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Console input and output\obj\Debug\netcoreapp2.1\Console input and output.AssemblyInfoInputs.cache
+D:\Repository\Master\Console input and output\obj\Debug\netcoreapp2.1\Console input and output.AssemblyInfo.cs
+D:\Repository\Master\Console input and output\obj\Debug\netcoreapp2.1\Console input and output.dll
+D:\Repository\Master\Console input and output\obj\Debug\netcoreapp2.1\Console input and output.pdb
