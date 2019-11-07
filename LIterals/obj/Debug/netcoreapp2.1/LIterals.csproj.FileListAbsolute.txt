@@ -1,0 +1,11 @@
+D:\Repository\Master\LIterals\obj\Debug\netcoreapp2.1\LIterals.csprojAssemblyReference.cache
+D:\Repository\Master\LIterals\obj\Debug\netcoreapp2.1\LIterals.csproj.CoreCompileInputs.cache
+D:\Repository\Master\LIterals\obj\Debug\netcoreapp2.1\LIterals.AssemblyInfoInputs.cache
+D:\Repository\Master\LIterals\obj\Debug\netcoreapp2.1\LIterals.AssemblyInfo.cs
+D:\Repository\Master\LIterals\bin\Debug\netcoreapp2.1\LIterals.deps.json
+D:\Repository\Master\LIterals\bin\Debug\netcoreapp2.1\LIterals.runtimeconfig.json
+D:\Repository\Master\LIterals\bin\Debug\netcoreapp2.1\LIterals.runtimeconfig.dev.json
+D:\Repository\Master\LIterals\bin\Debug\netcoreapp2.1\LIterals.dll
+D:\Repository\Master\LIterals\bin\Debug\netcoreapp2.1\LIterals.pdb
+D:\Repository\Master\LIterals\obj\Debug\netcoreapp2.1\LIterals.dll
+D:\Repository\Master\LIterals\obj\Debug\netcoreapp2.1\LIterals.pdb
