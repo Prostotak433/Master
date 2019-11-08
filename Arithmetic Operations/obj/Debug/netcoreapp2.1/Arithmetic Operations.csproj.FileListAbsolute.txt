@@ -1,0 +1,11 @@
+D:\Repository\Master\Arithmetic Operations\bin\Debug\netcoreapp2.1\Arithmetic Operations.deps.json
+D:\Repository\Master\Arithmetic Operations\bin\Debug\netcoreapp2.1\Arithmetic Operations.runtimeconfig.json
+D:\Repository\Master\Arithmetic Operations\bin\Debug\netcoreapp2.1\Arithmetic Operations.runtimeconfig.dev.json
+D:\Repository\Master\Arithmetic Operations\bin\Debug\netcoreapp2.1\Arithmetic Operations.dll
+D:\Repository\Master\Arithmetic Operations\bin\Debug\netcoreapp2.1\Arithmetic Operations.pdb
+D:\Repository\Master\Arithmetic Operations\obj\Debug\netcoreapp2.1\Arithmetic Operations.csprojAssemblyReference.cache
+D:\Repository\Master\Arithmetic Operations\obj\Debug\netcoreapp2.1\Arithmetic Operations.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Arithmetic Operations\obj\Debug\netcoreapp2.1\Arithmetic Operations.AssemblyInfoInputs.cache
+D:\Repository\Master\Arithmetic Operations\obj\Debug\netcoreapp2.1\Arithmetic Operations.AssemblyInfo.cs
+D:\Repository\Master\Arithmetic Operations\obj\Debug\netcoreapp2.1\Arithmetic Operations.dll
+D:\Repository\Master\Arithmetic Operations\obj\Debug\netcoreapp2.1\Arithmetic Operations.pdb
