@@ -1,0 +1,11 @@
+D:\Repository\Master\Basic data type conversions\bin\Debug\netcoreapp2.1\Basic data type conversions.deps.json
+D:\Repository\Master\Basic data type conversions\bin\Debug\netcoreapp2.1\Basic data type conversions.runtimeconfig.json
+D:\Repository\Master\Basic data type conversions\bin\Debug\netcoreapp2.1\Basic data type conversions.runtimeconfig.dev.json
+D:\Repository\Master\Basic data type conversions\bin\Debug\netcoreapp2.1\Basic data type conversions.dll
+D:\Repository\Master\Basic data type conversions\bin\Debug\netcoreapp2.1\Basic data type conversions.pdb
+D:\Repository\Master\Basic data type conversions\obj\Debug\netcoreapp2.1\Basic data type conversions.csprojAssemblyReference.cache
+D:\Repository\Master\Basic data type conversions\obj\Debug\netcoreapp2.1\Basic data type conversions.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Basic data type conversions\obj\Debug\netcoreapp2.1\Basic data type conversions.AssemblyInfoInputs.cache
+D:\Repository\Master\Basic data type conversions\obj\Debug\netcoreapp2.1\Basic data type conversions.AssemblyInfo.cs
+D:\Repository\Master\Basic data type conversions\obj\Debug\netcoreapp2.1\Basic data type conversions.dll
+D:\Repository\Master\Basic data type conversions\obj\Debug\netcoreapp2.1\Basic data type conversions.pdb
