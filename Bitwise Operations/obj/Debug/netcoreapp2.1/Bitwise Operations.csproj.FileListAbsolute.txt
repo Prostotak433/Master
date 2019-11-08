@@ -1,0 +1,11 @@
+D:\Repository\Master\Bitwise Operations\bin\Debug\netcoreapp2.1\Bitwise Operations.deps.json
+D:\Repository\Master\Bitwise Operations\bin\Debug\netcoreapp2.1\Bitwise Operations.runtimeconfig.json
+D:\Repository\Master\Bitwise Operations\bin\Debug\netcoreapp2.1\Bitwise Operations.runtimeconfig.dev.json
+D:\Repository\Master\Bitwise Operations\bin\Debug\netcoreapp2.1\Bitwise Operations.dll
+D:\Repository\Master\Bitwise Operations\bin\Debug\netcoreapp2.1\Bitwise Operations.pdb
+D:\Repository\Master\Bitwise Operations\obj\Debug\netcoreapp2.1\Bitwise Operations.csprojAssemblyReference.cache
+D:\Repository\Master\Bitwise Operations\obj\Debug\netcoreapp2.1\Bitwise Operations.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Bitwise Operations\obj\Debug\netcoreapp2.1\Bitwise Operations.AssemblyInfoInputs.cache
+D:\Repository\Master\Bitwise Operations\obj\Debug\netcoreapp2.1\Bitwise Operations.AssemblyInfo.cs
+D:\Repository\Master\Bitwise Operations\obj\Debug\netcoreapp2.1\Bitwise Operations.dll
+D:\Repository\Master\Bitwise Operations\obj\Debug\netcoreapp2.1\Bitwise Operations.pdb
