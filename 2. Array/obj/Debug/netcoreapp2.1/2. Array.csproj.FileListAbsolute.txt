@@ -1,0 +1,11 @@
+D:\Repository\Master\2. Array\bin\Debug\netcoreapp2.1\2. Array.deps.json
+D:\Repository\Master\2. Array\bin\Debug\netcoreapp2.1\2. Array.runtimeconfig.json
+D:\Repository\Master\2. Array\bin\Debug\netcoreapp2.1\2. Array.runtimeconfig.dev.json
+D:\Repository\Master\2. Array\bin\Debug\netcoreapp2.1\2. Array.dll
+D:\Repository\Master\2. Array\bin\Debug\netcoreapp2.1\2. Array.pdb
+D:\Repository\Master\2. Array\obj\Debug\netcoreapp2.1\2. Array.csprojAssemblyReference.cache
+D:\Repository\Master\2. Array\obj\Debug\netcoreapp2.1\2. Array.csproj.CoreCompileInputs.cache
+D:\Repository\Master\2. Array\obj\Debug\netcoreapp2.1\2. Array.AssemblyInfoInputs.cache
+D:\Repository\Master\2. Array\obj\Debug\netcoreapp2.1\2. Array.AssemblyInfo.cs
+D:\Repository\Master\2. Array\obj\Debug\netcoreapp2.1\2. Array.dll
+D:\Repository\Master\2. Array\obj\Debug\netcoreapp2.1\2. Array.pdb
