@@ -1,0 +1,11 @@
+D:\Repository\Master\Referencse type  Value type\bin\Debug\netcoreapp2.1\Referencse type  Value type.deps.json
+D:\Repository\Master\Referencse type  Value type\bin\Debug\netcoreapp2.1\Referencse type  Value type.runtimeconfig.json
+D:\Repository\Master\Referencse type  Value type\bin\Debug\netcoreapp2.1\Referencse type  Value type.runtimeconfig.dev.json
+D:\Repository\Master\Referencse type  Value type\bin\Debug\netcoreapp2.1\Referencse type  Value type.dll
+D:\Repository\Master\Referencse type  Value type\bin\Debug\netcoreapp2.1\Referencse type  Value type.pdb
+D:\Repository\Master\Referencse type  Value type\obj\Debug\netcoreapp2.1\Referencse type  Value type.csprojAssemblyReference.cache
+D:\Repository\Master\Referencse type  Value type\obj\Debug\netcoreapp2.1\Referencse type  Value type.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Referencse type  Value type\obj\Debug\netcoreapp2.1\Referencse type  Value type.AssemblyInfoInputs.cache
+D:\Repository\Master\Referencse type  Value type\obj\Debug\netcoreapp2.1\Referencse type  Value type.AssemblyInfo.cs
+D:\Repository\Master\Referencse type  Value type\obj\Debug\netcoreapp2.1\Referencse type  Value type.dll
+D:\Repository\Master\Referencse type  Value type\obj\Debug\netcoreapp2.1\Referencse type  Value type.pdb
