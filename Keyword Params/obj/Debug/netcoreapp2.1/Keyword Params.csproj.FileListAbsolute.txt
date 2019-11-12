@@ -1,0 +1,11 @@
+D:\Repository\Master\Keyword Params\bin\Debug\netcoreapp2.1\Keyword Params.deps.json
+D:\Repository\Master\Keyword Params\bin\Debug\netcoreapp2.1\Keyword Params.runtimeconfig.json
+D:\Repository\Master\Keyword Params\bin\Debug\netcoreapp2.1\Keyword Params.runtimeconfig.dev.json
+D:\Repository\Master\Keyword Params\bin\Debug\netcoreapp2.1\Keyword Params.dll
+D:\Repository\Master\Keyword Params\bin\Debug\netcoreapp2.1\Keyword Params.pdb
+D:\Repository\Master\Keyword Params\obj\Debug\netcoreapp2.1\Keyword Params.csprojAssemblyReference.cache
+D:\Repository\Master\Keyword Params\obj\Debug\netcoreapp2.1\Keyword Params.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Keyword Params\obj\Debug\netcoreapp2.1\Keyword Params.AssemblyInfoInputs.cache
+D:\Repository\Master\Keyword Params\obj\Debug\netcoreapp2.1\Keyword Params.AssemblyInfo.cs
+D:\Repository\Master\Keyword Params\obj\Debug\netcoreapp2.1\Keyword Params.dll
+D:\Repository\Master\Keyword Params\obj\Debug\netcoreapp2.1\Keyword Params.pdb
