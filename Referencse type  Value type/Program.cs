@@ -28,5 +28,12 @@ namespace Referencse_type__Value_type
             area = x * y;
             perim = (x + y) * 2;
         }
+        static void GetData(in int x, in int y, out int area, out int perim)
+        {
+            x = x + 10; 
+            y = y + 10;
+            area = x * y;
+            perim = (x + y) * 2;
+        }
     }
 }
