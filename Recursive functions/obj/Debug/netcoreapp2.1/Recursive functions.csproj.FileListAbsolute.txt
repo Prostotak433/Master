@@ -1,0 +1,11 @@
+D:\Repository\Master\Recursive functions\bin\Debug\netcoreapp2.1\Recursive functions.deps.json
+D:\Repository\Master\Recursive functions\bin\Debug\netcoreapp2.1\Recursive functions.runtimeconfig.json
+D:\Repository\Master\Recursive functions\bin\Debug\netcoreapp2.1\Recursive functions.runtimeconfig.dev.json
+D:\Repository\Master\Recursive functions\bin\Debug\netcoreapp2.1\Recursive functions.dll
+D:\Repository\Master\Recursive functions\bin\Debug\netcoreapp2.1\Recursive functions.pdb
+D:\Repository\Master\Recursive functions\obj\Debug\netcoreapp2.1\Recursive functions.csprojAssemblyReference.cache
+D:\Repository\Master\Recursive functions\obj\Debug\netcoreapp2.1\Recursive functions.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Recursive functions\obj\Debug\netcoreapp2.1\Recursive functions.AssemblyInfoInputs.cache
+D:\Repository\Master\Recursive functions\obj\Debug\netcoreapp2.1\Recursive functions.AssemblyInfo.cs
+D:\Repository\Master\Recursive functions\obj\Debug\netcoreapp2.1\Recursive functions.dll
+D:\Repository\Master\Recursive functions\obj\Debug\netcoreapp2.1\Recursive functions.pdb
