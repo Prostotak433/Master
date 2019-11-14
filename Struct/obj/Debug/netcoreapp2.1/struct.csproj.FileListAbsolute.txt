@@ -1,0 +1,11 @@
+D:\Repository\Master\Struct\bin\Debug\netcoreapp2.1\struct.deps.json
+D:\Repository\Master\Struct\bin\Debug\netcoreapp2.1\struct.runtimeconfig.json
+D:\Repository\Master\Struct\bin\Debug\netcoreapp2.1\struct.runtimeconfig.dev.json
+D:\Repository\Master\Struct\bin\Debug\netcoreapp2.1\struct.dll
+D:\Repository\Master\Struct\bin\Debug\netcoreapp2.1\struct.pdb
+D:\Repository\Master\Struct\obj\Debug\netcoreapp2.1\struct.csprojAssemblyReference.cache
+D:\Repository\Master\Struct\obj\Debug\netcoreapp2.1\struct.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Struct\obj\Debug\netcoreapp2.1\struct.AssemblyInfoInputs.cache
+D:\Repository\Master\Struct\obj\Debug\netcoreapp2.1\struct.AssemblyInfo.cs
+D:\Repository\Master\Struct\obj\Debug\netcoreapp2.1\struct.dll
+D:\Repository\Master\Struct\obj\Debug\netcoreapp2.1\struct.pdb
