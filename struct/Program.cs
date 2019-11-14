@@ -9,7 +9,7 @@ namespace Struct
             User tom;
             tom.Age = 12;
             tom.Name = " TOM ";
-
+            int x = tom.Age;
         }
         struct User
         {
