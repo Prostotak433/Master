@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\Master\\Struct\\struct.csproj": {}
+    "D:\\Repository\\Master\\struct\\struct.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\Master\\Struct\\struct.csproj": {
+    "D:\\Repository\\Master\\struct\\struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\Master\\Struct\\struct.csproj",
+        "projectUniqueName": "D:\\Repository\\Master\\struct\\struct.csproj",
         "projectName": "struct",
-        "projectPath": "D:\\Repository\\Master\\Struct\\struct.csproj",
+        "projectPath": "D:\\Repository\\Master\\struct\\struct.csproj",
         "packagesPath": "C:\\Users\\LmA\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\Master\\Struct\\obj\\",
+        "outputPath": "D:\\Repository\\Master\\struct\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
