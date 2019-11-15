@@ -1,0 +1,9 @@
+D:\Repository\Master\MyLib\bin\Debug\netcoreapp2.1\MyLib.deps.json
+D:\Repository\Master\MyLib\bin\Debug\netcoreapp2.1\MyLib.dll
+D:\Repository\Master\MyLib\bin\Debug\netcoreapp2.1\MyLib.pdb
+D:\Repository\Master\MyLib\obj\Debug\netcoreapp2.1\MyLib.csprojAssemblyReference.cache
+D:\Repository\Master\MyLib\obj\Debug\netcoreapp2.1\MyLib.csproj.CoreCompileInputs.cache
+D:\Repository\Master\MyLib\obj\Debug\netcoreapp2.1\MyLib.AssemblyInfoInputs.cache
+D:\Repository\Master\MyLib\obj\Debug\netcoreapp2.1\MyLib.AssemblyInfo.cs
+D:\Repository\Master\MyLib\obj\Debug\netcoreapp2.1\MyLib.dll
+D:\Repository\Master\MyLib\obj\Debug\netcoreapp2.1\MyLib.pdb
