@@ -22,7 +22,7 @@ namespace Access_modifiers
         public int publicVar;
 
         // по умолчанию имеет модификатор private
-        void defaultMethod() => Console.WriteLine($"defaultVar = {defaultVar}");
+        void defaultMethod() => Console.WriteLine($"defaultVar = {defaultVaR}");
 
         // метод доступен только из текущего класса
         private void privateMethod() => Console.WriteLine($"privateVar = {privateVar}");
