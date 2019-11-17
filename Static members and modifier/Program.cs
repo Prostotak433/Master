@@ -13,11 +13,15 @@ namespace Static_members_and_modifier
     }
     class Account
     {
-        public static decimal bonus = 100;
-        public decimal TotalSum;
-        public Account(decimal Sum)
+
+        static int retirementAge = 60;
+        public static void ChangeRetirementAge(int years)
         {
-            TotalSum += Sum + bonus;
+            retirementAge += years;
+        }
+        public void DisplayRetirementAge()
+        {
+            Console.WriteLine(retirementAge);
         }
     }
 }
