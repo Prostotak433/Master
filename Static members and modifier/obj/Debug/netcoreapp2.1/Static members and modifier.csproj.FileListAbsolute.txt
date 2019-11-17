@@ -1,0 +1,11 @@
+D:\Repository\Master\Static members and modifier\bin\Debug\netcoreapp2.1\Static members and modifier.deps.json
+D:\Repository\Master\Static members and modifier\bin\Debug\netcoreapp2.1\Static members and modifier.runtimeconfig.json
+D:\Repository\Master\Static members and modifier\bin\Debug\netcoreapp2.1\Static members and modifier.runtimeconfig.dev.json
+D:\Repository\Master\Static members and modifier\bin\Debug\netcoreapp2.1\Static members and modifier.dll
+D:\Repository\Master\Static members and modifier\bin\Debug\netcoreapp2.1\Static members and modifier.pdb
+D:\Repository\Master\Static members and modifier\obj\Debug\netcoreapp2.1\Static members and modifier.csprojAssemblyReference.cache
+D:\Repository\Master\Static members and modifier\obj\Debug\netcoreapp2.1\Static members and modifier.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Static members and modifier\obj\Debug\netcoreapp2.1\Static members and modifier.AssemblyInfoInputs.cache
+D:\Repository\Master\Static members and modifier\obj\Debug\netcoreapp2.1\Static members and modifier.AssemblyInfo.cs
+D:\Repository\Master\Static members and modifier\obj\Debug\netcoreapp2.1\Static members and modifier.dll
+D:\Repository\Master\Static members and modifier\obj\Debug\netcoreapp2.1\Static members and modifier.pdb
