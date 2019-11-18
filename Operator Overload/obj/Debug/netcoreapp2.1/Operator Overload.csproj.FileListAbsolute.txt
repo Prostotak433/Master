@@ -1,0 +1,11 @@
+D:\Repository\Master\Operator Overload\bin\Debug\netcoreapp2.1\Operator Overload.deps.json
+D:\Repository\Master\Operator Overload\bin\Debug\netcoreapp2.1\Operator Overload.runtimeconfig.json
+D:\Repository\Master\Operator Overload\bin\Debug\netcoreapp2.1\Operator Overload.runtimeconfig.dev.json
+D:\Repository\Master\Operator Overload\bin\Debug\netcoreapp2.1\Operator Overload.dll
+D:\Repository\Master\Operator Overload\bin\Debug\netcoreapp2.1\Operator Overload.pdb
+D:\Repository\Master\Operator Overload\obj\Debug\netcoreapp2.1\Operator Overload.csprojAssemblyReference.cache
+D:\Repository\Master\Operator Overload\obj\Debug\netcoreapp2.1\Operator Overload.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Operator Overload\obj\Debug\netcoreapp2.1\Operator Overload.AssemblyInfoInputs.cache
+D:\Repository\Master\Operator Overload\obj\Debug\netcoreapp2.1\Operator Overload.AssemblyInfo.cs
+D:\Repository\Master\Operator Overload\obj\Debug\netcoreapp2.1\Operator Overload.dll
+D:\Repository\Master\Operator Overload\obj\Debug\netcoreapp2.1\Operator Overload.pdb
