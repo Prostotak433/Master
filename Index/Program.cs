@@ -32,6 +32,22 @@ namespace Index
                 data[index] = value;
             }
         }
+        public Person this[string name]
+        {
+            get
+            {
+                Person person = null;
+                foreach (var p in data)
+                {
+                    if (p?.Name == name)
+                    {
+                        person = p;
+                        break;
+                    }
+                }
+                return person;
+            }
+        }
 
     }
     class Person
