@@ -1,0 +1,11 @@
+D:\Repository\Master\Index\bin\Debug\netcoreapp2.1\Index.deps.json
+D:\Repository\Master\Index\bin\Debug\netcoreapp2.1\Index.runtimeconfig.json
+D:\Repository\Master\Index\bin\Debug\netcoreapp2.1\Index.runtimeconfig.dev.json
+D:\Repository\Master\Index\bin\Debug\netcoreapp2.1\Index.dll
+D:\Repository\Master\Index\bin\Debug\netcoreapp2.1\Index.pdb
+D:\Repository\Master\Index\obj\Debug\netcoreapp2.1\Index.csprojAssemblyReference.cache
+D:\Repository\Master\Index\obj\Debug\netcoreapp2.1\Index.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Index\obj\Debug\netcoreapp2.1\Index.AssemblyInfoInputs.cache
+D:\Repository\Master\Index\obj\Debug\netcoreapp2.1\Index.AssemblyInfo.cs
+D:\Repository\Master\Index\obj\Debug\netcoreapp2.1\Index.dll
+D:\Repository\Master\Index\obj\Debug\netcoreapp2.1\Index.pdb
