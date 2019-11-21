@@ -1,0 +1,11 @@
+D:\Repository\Master\Overloading Type Conversion Operations\bin\Debug\netcoreapp2.1\Overloading Type Conversion Operations.deps.json
+D:\Repository\Master\Overloading Type Conversion Operations\bin\Debug\netcoreapp2.1\Overloading Type Conversion Operations.runtimeconfig.json
+D:\Repository\Master\Overloading Type Conversion Operations\bin\Debug\netcoreapp2.1\Overloading Type Conversion Operations.runtimeconfig.dev.json
+D:\Repository\Master\Overloading Type Conversion Operations\bin\Debug\netcoreapp2.1\Overloading Type Conversion Operations.dll
+D:\Repository\Master\Overloading Type Conversion Operations\bin\Debug\netcoreapp2.1\Overloading Type Conversion Operations.pdb
+D:\Repository\Master\Overloading Type Conversion Operations\obj\Debug\netcoreapp2.1\Overloading Type Conversion Operations.csprojAssemblyReference.cache
+D:\Repository\Master\Overloading Type Conversion Operations\obj\Debug\netcoreapp2.1\Overloading Type Conversion Operations.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Overloading Type Conversion Operations\obj\Debug\netcoreapp2.1\Overloading Type Conversion Operations.AssemblyInfoInputs.cache
+D:\Repository\Master\Overloading Type Conversion Operations\obj\Debug\netcoreapp2.1\Overloading Type Conversion Operations.AssemblyInfo.cs
+D:\Repository\Master\Overloading Type Conversion Operations\obj\Debug\netcoreapp2.1\Overloading Type Conversion Operations.dll
+D:\Repository\Master\Overloading Type Conversion Operations\obj\Debug\netcoreapp2.1\Overloading Type Conversion Operations.pdb
