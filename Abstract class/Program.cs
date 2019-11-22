@@ -44,6 +44,20 @@ namespace Abstract_class
             Position = position;
         }
     }
+    class Base
+    {
+        public virtual void Display()
+        {
+            Console.WriteLine("This is Base");
+        }
+    }
+    abstract class Derived : Base
+    {
+        public override void Display()
+        {
+            Console.WriteLine("This is Derived");
+        }
+    }
 }
 
 
