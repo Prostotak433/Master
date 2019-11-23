@@ -1,0 +1,11 @@
+D:\Repository\Master\System.Object\bin\Debug\netcoreapp2.1\System.Object.deps.json
+D:\Repository\Master\System.Object\bin\Debug\netcoreapp2.1\System.Object.runtimeconfig.json
+D:\Repository\Master\System.Object\bin\Debug\netcoreapp2.1\System.Object.runtimeconfig.dev.json
+D:\Repository\Master\System.Object\bin\Debug\netcoreapp2.1\System.Object.dll
+D:\Repository\Master\System.Object\bin\Debug\netcoreapp2.1\System.Object.pdb
+D:\Repository\Master\System.Object\obj\Debug\netcoreapp2.1\System.Object.csprojAssemblyReference.cache
+D:\Repository\Master\System.Object\obj\Debug\netcoreapp2.1\System.Object.csproj.CoreCompileInputs.cache
+D:\Repository\Master\System.Object\obj\Debug\netcoreapp2.1\System.Object.AssemblyInfoInputs.cache
+D:\Repository\Master\System.Object\obj\Debug\netcoreapp2.1\System.Object.AssemblyInfo.cs
+D:\Repository\Master\System.Object\obj\Debug\netcoreapp2.1\System.Object.dll
+D:\Repository\Master\System.Object\obj\Debug\netcoreapp2.1\System.Object.pdb
