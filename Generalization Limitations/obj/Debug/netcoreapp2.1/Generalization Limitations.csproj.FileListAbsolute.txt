@@ -1,0 +1,11 @@
+D:\Repository\Master\Generalization Limitations\bin\Debug\netcoreapp2.1\Generalization Limitations.deps.json
+D:\Repository\Master\Generalization Limitations\bin\Debug\netcoreapp2.1\Generalization Limitations.runtimeconfig.json
+D:\Repository\Master\Generalization Limitations\bin\Debug\netcoreapp2.1\Generalization Limitations.runtimeconfig.dev.json
+D:\Repository\Master\Generalization Limitations\bin\Debug\netcoreapp2.1\Generalization Limitations.dll
+D:\Repository\Master\Generalization Limitations\bin\Debug\netcoreapp2.1\Generalization Limitations.pdb
+D:\Repository\Master\Generalization Limitations\obj\Debug\netcoreapp2.1\Generalization Limitations.csprojAssemblyReference.cache
+D:\Repository\Master\Generalization Limitations\obj\Debug\netcoreapp2.1\Generalization Limitations.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Generalization Limitations\obj\Debug\netcoreapp2.1\Generalization Limitations.AssemblyInfoInputs.cache
+D:\Repository\Master\Generalization Limitations\obj\Debug\netcoreapp2.1\Generalization Limitations.AssemblyInfo.cs
+D:\Repository\Master\Generalization Limitations\obj\Debug\netcoreapp2.1\Generalization Limitations.dll
+D:\Repository\Master\Generalization Limitations\obj\Debug\netcoreapp2.1\Generalization Limitations.pdb
