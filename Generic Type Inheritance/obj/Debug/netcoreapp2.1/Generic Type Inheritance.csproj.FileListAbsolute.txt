@@ -1,0 +1,11 @@
+D:\Repository\Master\Generic Type Inheritance\bin\Debug\netcoreapp2.1\Generic Type Inheritance.deps.json
+D:\Repository\Master\Generic Type Inheritance\bin\Debug\netcoreapp2.1\Generic Type Inheritance.runtimeconfig.json
+D:\Repository\Master\Generic Type Inheritance\bin\Debug\netcoreapp2.1\Generic Type Inheritance.runtimeconfig.dev.json
+D:\Repository\Master\Generic Type Inheritance\bin\Debug\netcoreapp2.1\Generic Type Inheritance.dll
+D:\Repository\Master\Generic Type Inheritance\bin\Debug\netcoreapp2.1\Generic Type Inheritance.pdb
+D:\Repository\Master\Generic Type Inheritance\obj\Debug\netcoreapp2.1\Generic Type Inheritance.csprojAssemblyReference.cache
+D:\Repository\Master\Generic Type Inheritance\obj\Debug\netcoreapp2.1\Generic Type Inheritance.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Generic Type Inheritance\obj\Debug\netcoreapp2.1\Generic Type Inheritance.AssemblyInfoInputs.cache
+D:\Repository\Master\Generic Type Inheritance\obj\Debug\netcoreapp2.1\Generic Type Inheritance.AssemblyInfo.cs
+D:\Repository\Master\Generic Type Inheritance\obj\Debug\netcoreapp2.1\Generic Type Inheritance.dll
+D:\Repository\Master\Generic Type Inheritance\obj\Debug\netcoreapp2.1\Generic Type Inheritance.pdb
