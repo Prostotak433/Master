@@ -1,0 +1,11 @@
+D:\Repository\Master\5. String Operations\bin\Debug\netcoreapp2.1\5. String Operations.deps.json
+D:\Repository\Master\5. String Operations\bin\Debug\netcoreapp2.1\5. String Operations.runtimeconfig.json
+D:\Repository\Master\5. String Operations\bin\Debug\netcoreapp2.1\5. String Operations.runtimeconfig.dev.json
+D:\Repository\Master\5. String Operations\bin\Debug\netcoreapp2.1\5. String Operations.dll
+D:\Repository\Master\5. String Operations\bin\Debug\netcoreapp2.1\5. String Operations.pdb
+D:\Repository\Master\5. String Operations\obj\Debug\netcoreapp2.1\5. String Operations.csprojAssemblyReference.cache
+D:\Repository\Master\5. String Operations\obj\Debug\netcoreapp2.1\5. String Operations.csproj.CoreCompileInputs.cache
+D:\Repository\Master\5. String Operations\obj\Debug\netcoreapp2.1\5. String Operations.AssemblyInfoInputs.cache
+D:\Repository\Master\5. String Operations\obj\Debug\netcoreapp2.1\5. String Operations.AssemblyInfo.cs
+D:\Repository\Master\5. String Operations\obj\Debug\netcoreapp2.1\5. String Operations.dll
+D:\Repository\Master\5. String Operations\obj\Debug\netcoreapp2.1\5. String Operations.pdb
