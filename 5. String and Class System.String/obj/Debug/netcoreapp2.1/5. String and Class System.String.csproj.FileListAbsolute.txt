@@ -1,0 +1,11 @@
+D:\Repository\Master\5. String and Class System.String\bin\Debug\netcoreapp2.1\5. String and Class System.String.deps.json
+D:\Repository\Master\5. String and Class System.String\bin\Debug\netcoreapp2.1\5. String and Class System.String.runtimeconfig.json
+D:\Repository\Master\5. String and Class System.String\bin\Debug\netcoreapp2.1\5. String and Class System.String.runtimeconfig.dev.json
+D:\Repository\Master\5. String and Class System.String\bin\Debug\netcoreapp2.1\5. String and Class System.String.dll
+D:\Repository\Master\5. String and Class System.String\bin\Debug\netcoreapp2.1\5. String and Class System.String.pdb
+D:\Repository\Master\5. String and Class System.String\obj\Debug\netcoreapp2.1\5. String and Class System.String.csprojAssemblyReference.cache
+D:\Repository\Master\5. String and Class System.String\obj\Debug\netcoreapp2.1\5. String and Class System.String.csproj.CoreCompileInputs.cache
+D:\Repository\Master\5. String and Class System.String\obj\Debug\netcoreapp2.1\5. String and Class System.String.AssemblyInfoInputs.cache
+D:\Repository\Master\5. String and Class System.String\obj\Debug\netcoreapp2.1\5. String and Class System.String.AssemblyInfo.cs
+D:\Repository\Master\5. String and Class System.String\obj\Debug\netcoreapp2.1\5. String and Class System.String.dll
+D:\Repository\Master\5. String and Class System.String\obj\Debug\netcoreapp2.1\5. String and Class System.String.pdb
