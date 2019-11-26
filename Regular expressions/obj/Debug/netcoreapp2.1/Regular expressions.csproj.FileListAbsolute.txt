@@ -1,0 +1,11 @@
+D:\Repository\Master\Regular expressions\bin\Debug\netcoreapp2.1\Regular expressions.deps.json
+D:\Repository\Master\Regular expressions\bin\Debug\netcoreapp2.1\Regular expressions.runtimeconfig.json
+D:\Repository\Master\Regular expressions\bin\Debug\netcoreapp2.1\Regular expressions.runtimeconfig.dev.json
+D:\Repository\Master\Regular expressions\bin\Debug\netcoreapp2.1\Regular expressions.dll
+D:\Repository\Master\Regular expressions\bin\Debug\netcoreapp2.1\Regular expressions.pdb
+D:\Repository\Master\Regular expressions\obj\Debug\netcoreapp2.1\Regular expressions.csprojAssemblyReference.cache
+D:\Repository\Master\Regular expressions\obj\Debug\netcoreapp2.1\Regular expressions.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Regular expressions\obj\Debug\netcoreapp2.1\Regular expressions.AssemblyInfoInputs.cache
+D:\Repository\Master\Regular expressions\obj\Debug\netcoreapp2.1\Regular expressions.AssemblyInfo.cs
+D:\Repository\Master\Regular expressions\obj\Debug\netcoreapp2.1\Regular expressions.dll
+D:\Repository\Master\Regular expressions\obj\Debug\netcoreapp2.1\Regular expressions.pdb
