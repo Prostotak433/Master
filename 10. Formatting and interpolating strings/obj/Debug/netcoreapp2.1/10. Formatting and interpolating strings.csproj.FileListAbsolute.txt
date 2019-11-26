@@ -1,0 +1,11 @@
+D:\Repository\Master\10. Formatting and interpolating strings\bin\Debug\netcoreapp2.1\10. Formatting and interpolating strings.deps.json
+D:\Repository\Master\10. Formatting and interpolating strings\bin\Debug\netcoreapp2.1\10. Formatting and interpolating strings.runtimeconfig.json
+D:\Repository\Master\10. Formatting and interpolating strings\bin\Debug\netcoreapp2.1\10. Formatting and interpolating strings.runtimeconfig.dev.json
+D:\Repository\Master\10. Formatting and interpolating strings\bin\Debug\netcoreapp2.1\10. Formatting and interpolating strings.dll
+D:\Repository\Master\10. Formatting and interpolating strings\bin\Debug\netcoreapp2.1\10. Formatting and interpolating strings.pdb
+D:\Repository\Master\10. Formatting and interpolating strings\obj\Debug\netcoreapp2.1\10. Formatting and interpolating strings.csprojAssemblyReference.cache
+D:\Repository\Master\10. Formatting and interpolating strings\obj\Debug\netcoreapp2.1\10. Formatting and interpolating strings.csproj.CoreCompileInputs.cache
+D:\Repository\Master\10. Formatting and interpolating strings\obj\Debug\netcoreapp2.1\10. Formatting and interpolating strings.AssemblyInfoInputs.cache
+D:\Repository\Master\10. Formatting and interpolating strings\obj\Debug\netcoreapp2.1\10. Formatting and interpolating strings.AssemblyInfo.cs
+D:\Repository\Master\10. Formatting and interpolating strings\obj\Debug\netcoreapp2.1\10. Formatting and interpolating strings.dll
+D:\Repository\Master\10. Formatting and interpolating strings\obj\Debug\netcoreapp2.1\10. Formatting and interpolating strings.pdb
