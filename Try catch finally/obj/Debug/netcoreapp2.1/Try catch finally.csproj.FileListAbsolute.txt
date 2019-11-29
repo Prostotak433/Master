@@ -1,0 +1,11 @@
+D:\Repository\Master\Try catch finally\bin\Debug\netcoreapp2.1\Try catch finally.deps.json
+D:\Repository\Master\Try catch finally\bin\Debug\netcoreapp2.1\Try catch finally.runtimeconfig.json
+D:\Repository\Master\Try catch finally\bin\Debug\netcoreapp2.1\Try catch finally.runtimeconfig.dev.json
+D:\Repository\Master\Try catch finally\bin\Debug\netcoreapp2.1\Try catch finally.dll
+D:\Repository\Master\Try catch finally\bin\Debug\netcoreapp2.1\Try catch finally.pdb
+D:\Repository\Master\Try catch finally\obj\Debug\netcoreapp2.1\Try catch finally.csprojAssemblyReference.cache
+D:\Repository\Master\Try catch finally\obj\Debug\netcoreapp2.1\Try catch finally.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Try catch finally\obj\Debug\netcoreapp2.1\Try catch finally.AssemblyInfoInputs.cache
+D:\Repository\Master\Try catch finally\obj\Debug\netcoreapp2.1\Try catch finally.AssemblyInfo.cs
+D:\Repository\Master\Try catch finally\obj\Debug\netcoreapp2.1\Try catch finally.dll
+D:\Repository\Master\Try catch finally\obj\Debug\netcoreapp2.1\Try catch finally.pdb
