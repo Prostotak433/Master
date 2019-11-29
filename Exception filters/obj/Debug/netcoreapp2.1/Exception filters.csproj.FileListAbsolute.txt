@@ -1,0 +1,11 @@
+D:\Repository\Master\Exception filters\bin\Debug\netcoreapp2.1\Exception filters.deps.json
+D:\Repository\Master\Exception filters\bin\Debug\netcoreapp2.1\Exception filters.runtimeconfig.json
+D:\Repository\Master\Exception filters\bin\Debug\netcoreapp2.1\Exception filters.runtimeconfig.dev.json
+D:\Repository\Master\Exception filters\bin\Debug\netcoreapp2.1\Exception filters.dll
+D:\Repository\Master\Exception filters\bin\Debug\netcoreapp2.1\Exception filters.pdb
+D:\Repository\Master\Exception filters\obj\Debug\netcoreapp2.1\Exception filters.csprojAssemblyReference.cache
+D:\Repository\Master\Exception filters\obj\Debug\netcoreapp2.1\Exception filters.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Exception filters\obj\Debug\netcoreapp2.1\Exception filters.AssemblyInfoInputs.cache
+D:\Repository\Master\Exception filters\obj\Debug\netcoreapp2.1\Exception filters.AssemblyInfo.cs
+D:\Repository\Master\Exception filters\obj\Debug\netcoreapp2.1\Exception filters.dll
+D:\Repository\Master\Exception filters\obj\Debug\netcoreapp2.1\Exception filters.pdb
