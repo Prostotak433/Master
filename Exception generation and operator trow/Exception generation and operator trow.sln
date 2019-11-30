@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception generation and operator trow", "Exception generation and operator trow.csproj", "{378956EB-AC6F-4434-8073-B18E82F1B28B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378956EB-AC6F-4434-8073-B18E82F1B28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378956EB-AC6F-4434-8073-B18E82F1B28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378956EB-AC6F-4434-8073-B18E82F1B28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378956EB-AC6F-4434-8073-B18E82F1B28B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A4806F7-7023-4049-B8DD-C169B6545554}
+	EndGlobalSection
+EndGlobal

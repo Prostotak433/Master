@@ -1,0 +1,11 @@
+D:\Repository\Master\Exception generation and operator trow\bin\Debug\netcoreapp2.1\Exception generation and operator trow.deps.json
+D:\Repository\Master\Exception generation and operator trow\bin\Debug\netcoreapp2.1\Exception generation and operator trow.runtimeconfig.json
+D:\Repository\Master\Exception generation and operator trow\bin\Debug\netcoreapp2.1\Exception generation and operator trow.runtimeconfig.dev.json
+D:\Repository\Master\Exception generation and operator trow\bin\Debug\netcoreapp2.1\Exception generation and operator trow.dll
+D:\Repository\Master\Exception generation and operator trow\bin\Debug\netcoreapp2.1\Exception generation and operator trow.pdb
+D:\Repository\Master\Exception generation and operator trow\obj\Debug\netcoreapp2.1\Exception generation and operator trow.csprojAssemblyReference.cache
+D:\Repository\Master\Exception generation and operator trow\obj\Debug\netcoreapp2.1\Exception generation and operator trow.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Exception generation and operator trow\obj\Debug\netcoreapp2.1\Exception generation and operator trow.AssemblyInfoInputs.cache
+D:\Repository\Master\Exception generation and operator trow\obj\Debug\netcoreapp2.1\Exception generation and operator trow.AssemblyInfo.cs
+D:\Repository\Master\Exception generation and operator trow\obj\Debug\netcoreapp2.1\Exception generation and operator trow.dll
+D:\Repository\Master\Exception generation and operator trow\obj\Debug\netcoreapp2.1\Exception generation and operator trow.pdb
