@@ -1,0 +1,11 @@
+D:\Repository\Master\Creating Exclusion Classes\obj\Debug\netcoreapp2.1\Creating Exclusion Classes.csprojAssemblyReference.cache
+D:\Repository\Master\Creating Exclusion Classes\obj\Debug\netcoreapp2.1\Creating Exclusion Classes.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Creating Exclusion Classes\obj\Debug\netcoreapp2.1\Creating Exclusion Classes.AssemblyInfoInputs.cache
+D:\Repository\Master\Creating Exclusion Classes\obj\Debug\netcoreapp2.1\Creating Exclusion Classes.AssemblyInfo.cs
+D:\Repository\Master\Creating Exclusion Classes\bin\Debug\netcoreapp2.1\Creating Exclusion Classes.deps.json
+D:\Repository\Master\Creating Exclusion Classes\bin\Debug\netcoreapp2.1\Creating Exclusion Classes.runtimeconfig.json
+D:\Repository\Master\Creating Exclusion Classes\bin\Debug\netcoreapp2.1\Creating Exclusion Classes.runtimeconfig.dev.json
+D:\Repository\Master\Creating Exclusion Classes\bin\Debug\netcoreapp2.1\Creating Exclusion Classes.dll
+D:\Repository\Master\Creating Exclusion Classes\bin\Debug\netcoreapp2.1\Creating Exclusion Classes.pdb
+D:\Repository\Master\Creating Exclusion Classes\obj\Debug\netcoreapp2.1\Creating Exclusion Classes.dll
+D:\Repository\Master\Creating Exclusion Classes\obj\Debug\netcoreapp2.1\Creating Exclusion Classes.pdb
