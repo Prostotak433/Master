@@ -39,13 +39,9 @@ namespace Delegate
         {
             Console.WriteLine("How are you?");
         }
-        private static void HowAreYou1()
+        private static void Hello1()
         {
-            Console.WriteLine("How are  you?");
-        }
-        private static void HowAreYou21()
-        {
-            Console.WriteLine("How are  you?");
+            Console.WriteLine("Hello");
         }
     }
 }
