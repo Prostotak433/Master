@@ -6,7 +6,15 @@ namespace Аpplication_Delegate
     {
         static void Main(string[] args)
         {
-            
+            Account account = new Account(200);
+            account.RegisterHandler(new Account.AccountStateHangler(Show_Message));
+            account.Withdraw(100);
+            account.Withdraw(150);
+            Console.ReadLine();
+        }
+        private static void Show_Message(string message)
+        {
+            Console.WriteLine(message);
         }
     }
     class Account
@@ -29,6 +37,13 @@ namespace Аpplication_Delegate
             if(sum<=_sum)
             {
                 _sum -= sum;
+                if (_del != null)
+                    _del($"Cумма {sum} снята со счета");
+            }
+            else
+            {
+                if (_del != null)
+                    _del("Недостаточно денег на счете");
             }
         }
         public delegate void AccountStateHangler(string message);

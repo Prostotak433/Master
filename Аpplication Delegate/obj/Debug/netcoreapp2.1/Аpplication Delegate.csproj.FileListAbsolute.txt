@@ -1,0 +1,11 @@
+D:\Repository\Master\Аpplication Delegate\bin\Debug\netcoreapp2.1\Аpplication Delegate.deps.json
+D:\Repository\Master\Аpplication Delegate\bin\Debug\netcoreapp2.1\Аpplication Delegate.runtimeconfig.json
+D:\Repository\Master\Аpplication Delegate\bin\Debug\netcoreapp2.1\Аpplication Delegate.runtimeconfig.dev.json
+D:\Repository\Master\Аpplication Delegate\bin\Debug\netcoreapp2.1\Аpplication Delegate.dll
+D:\Repository\Master\Аpplication Delegate\bin\Debug\netcoreapp2.1\Аpplication Delegate.pdb
+D:\Repository\Master\Аpplication Delegate\obj\Debug\netcoreapp2.1\Аpplication Delegate.csprojAssemblyReference.cache
+D:\Repository\Master\Аpplication Delegate\obj\Debug\netcoreapp2.1\Аpplication Delegate.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Аpplication Delegate\obj\Debug\netcoreapp2.1\Аpplication Delegate.AssemblyInfoInputs.cache
+D:\Repository\Master\Аpplication Delegate\obj\Debug\netcoreapp2.1\Аpplication Delegate.AssemblyInfo.cs
+D:\Repository\Master\Аpplication Delegate\obj\Debug\netcoreapp2.1\Аpplication Delegate.dll
+D:\Repository\Master\Аpplication Delegate\obj\Debug\netcoreapp2.1\Аpplication Delegate.pdb
