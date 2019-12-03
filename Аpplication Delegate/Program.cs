@@ -8,6 +8,9 @@ namespace Аpplication_Delegate
         {
             Account account = new Account(200);
             account.RegisterHandler(new Account.AccountStateHangler(Show_Message));
+            Account.AccountStateHangler collorDelegate = new Account.AccountStateHangler(Color_Message);
+            account.RegisterHandler(new Account.AccountStateHangler(Show_Message));
+            account.RegisterHandler(collorDelegate);
             account.Withdraw(100);
             account.Withdraw(150);
             Console.ReadLine();
@@ -50,7 +53,17 @@ namespace Аpplication_Delegate
         AccountStateHangler _del;
         public void RegisterHandler(AccountStateHangler del)
         {
-            _del = del;
+            _del += del;
+        }
+        public void UnregisterHandler(AccountStateHangler del)
+        {
+            _del -= del; // удаляем делегат
+        }
+        private static void Color_Message(string message)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(message);
+            Console.ResetColor();
         }
     }
 
