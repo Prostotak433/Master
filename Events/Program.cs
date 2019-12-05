@@ -36,7 +36,8 @@ namespace Events
        
         static void Main(string[] args)
         {
-           
+            Console.ReadKey();
         }
+
     }
 }
