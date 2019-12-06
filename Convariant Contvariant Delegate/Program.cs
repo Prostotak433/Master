@@ -21,5 +21,13 @@ namespace Convariant_Contvariant_Delegate
         {
             return new Client { Name = name };
         }
+        private static Person GetPerson(string name)
+        {
+            return new Person { Name = name };
+        }
+        private static Client GetClient(string name)
+        {
+            return new Client { Name = name };
+        }
     }
 }
