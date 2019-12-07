@@ -13,6 +13,7 @@ namespace Аpplication_Delegate
             account.RegisterHandler(collorDelegate);
             account.Withdraw(100);
             account.Withdraw(150);
+            account.Withdraw(120);
             Console.ReadLine();
         }
         private static void Show_Message(string message)
