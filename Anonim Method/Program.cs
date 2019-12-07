@@ -14,6 +14,7 @@ namespace Anonim_Method
             };
             Console.WriteLine(add(20, 30));
             Console.WriteLine(add(10, 760));
+            Console.WriteLine(add(10, 730));
 
             MessageHandler handler = delegate 
             {
