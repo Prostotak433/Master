@@ -11,6 +11,7 @@ namespace Events
         {
             Sum = sum;
         }
+        
         public int Sum { get; private set; }
         public void Put(int sum)
         {
@@ -39,5 +40,9 @@ namespace Events
             Console.ReadKey();   
         }
         
+    }
+    class AccountEventArgs
+    {
+
     }
 }
