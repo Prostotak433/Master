@@ -5,6 +5,7 @@ namespace Convariant_Contvariant_Delegate
     class Person
     {
         public string Name { get; set; }
+        public int Age { get; set; }
     }
     class Client : Person { }
     class Program
