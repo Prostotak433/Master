@@ -11,6 +11,7 @@ namespace Lambda
         delegate int Add(int x, int y, int z);
         static void Main(string[] args)
         {
+            Add add2 = (x, y, z) => x + y / z;
             Method2 mess = () => Method1();
             mess();
             int a = 5;
