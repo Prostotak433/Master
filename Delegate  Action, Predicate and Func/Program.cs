@@ -10,7 +10,7 @@ namespace Delegate__Action__Predicate_and_Func
             op = Add;
             Operation(10, 6, op);
             op = Substract;
-            Operation(10, 6, op);
+            Operation(10, 3, op);
 
             Console.Read();
         }
