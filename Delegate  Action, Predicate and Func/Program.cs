@@ -8,6 +8,8 @@ namespace Delegate__Action__Predicate_and_Func
         {
             Predicate<int> predicate = delegate (int x) { return x > 0; };
             Console.WriteLine(predicate(20));
+            Func<int, int> retFunc = Factorial;
+
             Action<int, int> op;
             op = Add;
             Operation(10, 6, op);
