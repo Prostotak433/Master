@@ -29,7 +29,9 @@ namespace Events
             {
                 Notify?.Invoke($"Недостаточно денег на счете. Текущий баланс: {Sum}"); ;
             }
+            Console.ReadKey();
         }
+        
     }
 
     class Program
@@ -45,4 +47,5 @@ namespace Events
     {
 
     }
+    
 }
