@@ -2,10 +2,11 @@
 
 namespace Interfaces
 {
-    interface Ispeed
+    public interface Ispeed
     {
         private const int minSpeed = 0;
-        static int maxSpeed = 70;
+        int maxSpeed = 70;
+        int MaxSpeed { get { return 0; } }
         public void Move()
         {
             Console.WriteLine("Move");
