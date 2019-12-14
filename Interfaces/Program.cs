@@ -4,9 +4,12 @@ namespace Interfaces
 {
     interface Ispeed
     {
-        const int minSpeed = 0;
+        private const int minSpeed = 0;
         static int maxSpeed = 70;
-        void Move();
+        public void Move()
+        {
+            Console.WriteLine("Move");
+        }
         string Name { get; set; }
         delegate void Move(string mess);
         event Move MoveEvent;
@@ -16,7 +19,7 @@ namespace Interfaces
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine(Ispeed.maxSpeed);
         }
     }
 }
