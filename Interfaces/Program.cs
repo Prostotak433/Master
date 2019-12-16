@@ -11,6 +11,7 @@ namespace Interfaces
         {
             Console.WriteLine("Move");
         }
+        
         string Name { get; set; }
         delegate void Move(string mess);
         event Move MoveEvent;
@@ -22,6 +23,7 @@ namespace Interfaces
         {
             Console.WriteLine(Ispeed.maxSpeed);
             Console.WriteLine(Ispeed.minSpeed);
+            Console.ReadKey();
         }
     }
 }
