@@ -10,6 +10,7 @@ namespace Interfaces
         public void Move()
         {
             Console.WriteLine("Move");
+            Console.WriteLine("");
         }
         
         string Name { get; set; }
