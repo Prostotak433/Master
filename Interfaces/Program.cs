@@ -21,6 +21,7 @@ namespace Interfaces
         static void Main(string[] args)
         {
             Console.WriteLine(Ispeed.maxSpeed);
+            Console.WriteLine(Ispeed.minSpeed);
         }
     }
 }
