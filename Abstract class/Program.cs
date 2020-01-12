@@ -36,7 +36,7 @@ namespace Abstract_class
     }
     class Employee : Person
     {
-        public string Position { get; set; } // должнось
+        public string Position { get; set; } // должность
 
         public Employee(string name, string position)
             : base(name)
