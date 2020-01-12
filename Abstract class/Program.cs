@@ -48,7 +48,7 @@ namespace Abstract_class
     {
         public virtual void Display()
         {
-            Console.WriteLine("This is Base");
+            Console.WriteLine("This is a Base");
         }
     }
     abstract class Derived : Base
