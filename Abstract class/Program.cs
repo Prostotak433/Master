@@ -14,7 +14,7 @@ namespace Abstract_class
     }
     abstract class Person
     {
-      public string Name { }
+      public string Name { get; set; }
       public Person(string name)
         {
             Name = name;
