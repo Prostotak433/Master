@@ -4,8 +4,8 @@ namespace Interfaces
 {
     public interface Ispeed
     {
-        private const int minSpeed = 0;
-        int maxSpeed = 70;
+        public const int minSpeed = 0;
+        public int maxSpeed = 70;
         int MaxSpeed { get { return 0; } }
         public void Move()
         {
