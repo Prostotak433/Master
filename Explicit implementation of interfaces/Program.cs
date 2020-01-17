@@ -2,25 +2,34 @@
 
 namespace Explicit_implementation_of_interfaces
 {
-    interface IAction
+    interface IUniversity
     {
-        void Move();
+        void Study();
     }
-    class BaseAction : IAction
+    
+    interface ISchool
     {
-        void IAction.Move()
+        void Study();
+    }
+    class Person : IUniversity,ISchool
+    {
+        void IUniversity.Study()
         {
-            Console.WriteLine("Move in Base class");
+            Console.WriteLine("University");
+        }
+        void ISchool.Study()
+        {
+            Console.WriteLine("School");
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            BaseAction action = new BaseAction();
-            ((IAction)action).Move();
-            IAction action2 = new BaseAction();
-            action2.Move();
+            Person person = new Person();
+            ((ISchool)person).Study();
+            ((IUniversity)person).Study();
+            Console.Read();
         }
     }
 }
