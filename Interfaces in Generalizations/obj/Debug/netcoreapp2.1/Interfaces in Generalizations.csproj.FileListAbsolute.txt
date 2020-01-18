@@ -1,0 +1,11 @@
+D:\Repository\Master\Interfaces in Generalizations\bin\Debug\netcoreapp2.1\Interfaces in Generalizations.deps.json
+D:\Repository\Master\Interfaces in Generalizations\bin\Debug\netcoreapp2.1\Interfaces in Generalizations.runtimeconfig.json
+D:\Repository\Master\Interfaces in Generalizations\bin\Debug\netcoreapp2.1\Interfaces in Generalizations.runtimeconfig.dev.json
+D:\Repository\Master\Interfaces in Generalizations\bin\Debug\netcoreapp2.1\Interfaces in Generalizations.dll
+D:\Repository\Master\Interfaces in Generalizations\bin\Debug\netcoreapp2.1\Interfaces in Generalizations.pdb
+D:\Repository\Master\Interfaces in Generalizations\obj\Debug\netcoreapp2.1\Interfaces in Generalizations.csprojAssemblyReference.cache
+D:\Repository\Master\Interfaces in Generalizations\obj\Debug\netcoreapp2.1\Interfaces in Generalizations.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Interfaces in Generalizations\obj\Debug\netcoreapp2.1\Interfaces in Generalizations.AssemblyInfoInputs.cache
+D:\Repository\Master\Interfaces in Generalizations\obj\Debug\netcoreapp2.1\Interfaces in Generalizations.AssemblyInfo.cs
+D:\Repository\Master\Interfaces in Generalizations\obj\Debug\netcoreapp2.1\Interfaces in Generalizations.dll
+D:\Repository\Master\Interfaces in Generalizations\obj\Debug\netcoreapp2.1\Interfaces in Generalizations.pdb
