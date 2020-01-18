@@ -1,0 +1,11 @@
+D:\Repository\Master\Interface implementation in base and derived classes\bin\Debug\netcoreapp2.1\Interface implementation in base and derived classes.deps.json
+D:\Repository\Master\Interface implementation in base and derived classes\bin\Debug\netcoreapp2.1\Interface implementation in base and derived classes.runtimeconfig.json
+D:\Repository\Master\Interface implementation in base and derived classes\bin\Debug\netcoreapp2.1\Interface implementation in base and derived classes.runtimeconfig.dev.json
+D:\Repository\Master\Interface implementation in base and derived classes\bin\Debug\netcoreapp2.1\Interface implementation in base and derived classes.dll
+D:\Repository\Master\Interface implementation in base and derived classes\bin\Debug\netcoreapp2.1\Interface implementation in base and derived classes.pdb
+D:\Repository\Master\Interface implementation in base and derived classes\obj\Debug\netcoreapp2.1\Interface implementation in base and derived classes.csprojAssemblyReference.cache
+D:\Repository\Master\Interface implementation in base and derived classes\obj\Debug\netcoreapp2.1\Interface implementation in base and derived classes.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Interface implementation in base and derived classes\obj\Debug\netcoreapp2.1\Interface implementation in base and derived classes.AssemblyInfoInputs.cache
+D:\Repository\Master\Interface implementation in base and derived classes\obj\Debug\netcoreapp2.1\Interface implementation in base and derived classes.AssemblyInfo.cs
+D:\Repository\Master\Interface implementation in base and derived classes\obj\Debug\netcoreapp2.1\Interface implementation in base and derived classes.dll
+D:\Repository\Master\Interface implementation in base and derived classes\obj\Debug\netcoreapp2.1\Interface implementation in base and derived classes.pdb
