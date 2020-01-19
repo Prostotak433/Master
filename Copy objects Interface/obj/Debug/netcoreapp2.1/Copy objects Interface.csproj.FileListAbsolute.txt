@@ -1,0 +1,11 @@
+D:\Repository\Master\Copy objects Interface\bin\Debug\netcoreapp2.1\Copy objects Interface.deps.json
+D:\Repository\Master\Copy objects Interface\bin\Debug\netcoreapp2.1\Copy objects Interface.runtimeconfig.json
+D:\Repository\Master\Copy objects Interface\bin\Debug\netcoreapp2.1\Copy objects Interface.runtimeconfig.dev.json
+D:\Repository\Master\Copy objects Interface\bin\Debug\netcoreapp2.1\Copy objects Interface.dll
+D:\Repository\Master\Copy objects Interface\bin\Debug\netcoreapp2.1\Copy objects Interface.pdb
+D:\Repository\Master\Copy objects Interface\obj\Debug\netcoreapp2.1\Copy objects Interface.csprojAssemblyReference.cache
+D:\Repository\Master\Copy objects Interface\obj\Debug\netcoreapp2.1\Copy objects Interface.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Copy objects Interface\obj\Debug\netcoreapp2.1\Copy objects Interface.AssemblyInfoInputs.cache
+D:\Repository\Master\Copy objects Interface\obj\Debug\netcoreapp2.1\Copy objects Interface.AssemblyInfo.cs
+D:\Repository\Master\Copy objects Interface\obj\Debug\netcoreapp2.1\Copy objects Interface.dll
+D:\Repository\Master\Copy objects Interface\obj\Debug\netcoreapp2.1\Copy objects Interface.pdb
