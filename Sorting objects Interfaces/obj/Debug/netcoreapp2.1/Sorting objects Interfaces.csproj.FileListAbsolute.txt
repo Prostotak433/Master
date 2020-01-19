@@ -1,0 +1,11 @@
+D:\Repository\Master\Sorting objects Interfaces\bin\Debug\netcoreapp2.1\Sorting objects Interfaces.deps.json
+D:\Repository\Master\Sorting objects Interfaces\bin\Debug\netcoreapp2.1\Sorting objects Interfaces.runtimeconfig.json
+D:\Repository\Master\Sorting objects Interfaces\bin\Debug\netcoreapp2.1\Sorting objects Interfaces.runtimeconfig.dev.json
+D:\Repository\Master\Sorting objects Interfaces\bin\Debug\netcoreapp2.1\Sorting objects Interfaces.dll
+D:\Repository\Master\Sorting objects Interfaces\bin\Debug\netcoreapp2.1\Sorting objects Interfaces.pdb
+D:\Repository\Master\Sorting objects Interfaces\obj\Debug\netcoreapp2.1\Sorting objects Interfaces.csprojAssemblyReference.cache
+D:\Repository\Master\Sorting objects Interfaces\obj\Debug\netcoreapp2.1\Sorting objects Interfaces.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Sorting objects Interfaces\obj\Debug\netcoreapp2.1\Sorting objects Interfaces.AssemblyInfoInputs.cache
+D:\Repository\Master\Sorting objects Interfaces\obj\Debug\netcoreapp2.1\Sorting objects Interfaces.AssemblyInfo.cs
+D:\Repository\Master\Sorting objects Interfaces\obj\Debug\netcoreapp2.1\Sorting objects Interfaces.dll
+D:\Repository\Master\Sorting objects Interfaces\obj\Debug\netcoreapp2.1\Sorting objects Interfaces.pdb
