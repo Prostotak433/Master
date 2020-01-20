@@ -1,0 +1,11 @@
+D:\Repository\Master\Anonim Type\bin\Debug\netcoreapp2.1\Anonim Type.deps.json
+D:\Repository\Master\Anonim Type\bin\Debug\netcoreapp2.1\Anonim Type.runtimeconfig.json
+D:\Repository\Master\Anonim Type\bin\Debug\netcoreapp2.1\Anonim Type.runtimeconfig.dev.json
+D:\Repository\Master\Anonim Type\bin\Debug\netcoreapp2.1\Anonim Type.dll
+D:\Repository\Master\Anonim Type\bin\Debug\netcoreapp2.1\Anonim Type.pdb
+D:\Repository\Master\Anonim Type\obj\Debug\netcoreapp2.1\Anonim Type.csprojAssemblyReference.cache
+D:\Repository\Master\Anonim Type\obj\Debug\netcoreapp2.1\Anonim Type.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Anonim Type\obj\Debug\netcoreapp2.1\Anonim Type.AssemblyInfoInputs.cache
+D:\Repository\Master\Anonim Type\obj\Debug\netcoreapp2.1\Anonim Type.AssemblyInfo.cs
+D:\Repository\Master\Anonim Type\obj\Debug\netcoreapp2.1\Anonim Type.dll
+D:\Repository\Master\Anonim Type\obj\Debug\netcoreapp2.1\Anonim Type.pdb
