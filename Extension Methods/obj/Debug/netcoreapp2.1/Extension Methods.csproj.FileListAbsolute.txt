@@ -1,0 +1,11 @@
+D:\Repository\Master\Extension Methods\bin\Debug\netcoreapp2.1\Extension Methods.deps.json
+D:\Repository\Master\Extension Methods\bin\Debug\netcoreapp2.1\Extension Methods.runtimeconfig.json
+D:\Repository\Master\Extension Methods\bin\Debug\netcoreapp2.1\Extension Methods.runtimeconfig.dev.json
+D:\Repository\Master\Extension Methods\bin\Debug\netcoreapp2.1\Extension Methods.dll
+D:\Repository\Master\Extension Methods\bin\Debug\netcoreapp2.1\Extension Methods.pdb
+D:\Repository\Master\Extension Methods\obj\Debug\netcoreapp2.1\Extension Methods.csprojAssemblyReference.cache
+D:\Repository\Master\Extension Methods\obj\Debug\netcoreapp2.1\Extension Methods.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Extension Methods\obj\Debug\netcoreapp2.1\Extension Methods.AssemblyInfoInputs.cache
+D:\Repository\Master\Extension Methods\obj\Debug\netcoreapp2.1\Extension Methods.AssemblyInfo.cs
+D:\Repository\Master\Extension Methods\obj\Debug\netcoreapp2.1\Extension Methods.dll
+D:\Repository\Master\Extension Methods\obj\Debug\netcoreapp2.1\Extension Methods.pdb
