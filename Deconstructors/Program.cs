@@ -17,7 +17,7 @@ namespace Deconstructors
         static void Main(string[] args)
         {
             Person person = new Person { Age = 33, Name = "Tom" };
-            
+            (string name, int age) = person;
         }
     }
 }
