@@ -1,0 +1,11 @@
+D:\Repository\Master\Local functions\bin\Debug\netcoreapp2.1\Local functions.deps.json
+D:\Repository\Master\Local functions\bin\Debug\netcoreapp2.1\Local functions.runtimeconfig.json
+D:\Repository\Master\Local functions\bin\Debug\netcoreapp2.1\Local functions.runtimeconfig.dev.json
+D:\Repository\Master\Local functions\bin\Debug\netcoreapp2.1\Local functions.dll
+D:\Repository\Master\Local functions\bin\Debug\netcoreapp2.1\Local functions.pdb
+D:\Repository\Master\Local functions\obj\Debug\netcoreapp2.1\Local functions.csprojAssemblyReference.cache
+D:\Repository\Master\Local functions\obj\Debug\netcoreapp2.1\Local functions.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Local functions\obj\Debug\netcoreapp2.1\Local functions.AssemblyInfoInputs.cache
+D:\Repository\Master\Local functions\obj\Debug\netcoreapp2.1\Local functions.AssemblyInfo.cs
+D:\Repository\Master\Local functions\obj\Debug\netcoreapp2.1\Local functions.dll
+D:\Repository\Master\Local functions\obj\Debug\netcoreapp2.1\Local functions.pdb
