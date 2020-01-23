@@ -1,0 +1,11 @@
+D:\Repository\Master\Pattern Switcg\bin\Debug\netcoreapp2.1\Pattern Switcg.deps.json
+D:\Repository\Master\Pattern Switcg\bin\Debug\netcoreapp2.1\Pattern Switcg.runtimeconfig.json
+D:\Repository\Master\Pattern Switcg\bin\Debug\netcoreapp2.1\Pattern Switcg.runtimeconfig.dev.json
+D:\Repository\Master\Pattern Switcg\bin\Debug\netcoreapp2.1\Pattern Switcg.dll
+D:\Repository\Master\Pattern Switcg\bin\Debug\netcoreapp2.1\Pattern Switcg.pdb
+D:\Repository\Master\Pattern Switcg\obj\Debug\netcoreapp2.1\Pattern Switcg.csprojAssemblyReference.cache
+D:\Repository\Master\Pattern Switcg\obj\Debug\netcoreapp2.1\Pattern Switcg.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Pattern Switcg\obj\Debug\netcoreapp2.1\Pattern Switcg.AssemblyInfoInputs.cache
+D:\Repository\Master\Pattern Switcg\obj\Debug\netcoreapp2.1\Pattern Switcg.AssemblyInfo.cs
+D:\Repository\Master\Pattern Switcg\obj\Debug\netcoreapp2.1\Pattern Switcg.dll
+D:\Repository\Master\Pattern Switcg\obj\Debug\netcoreapp2.1\Pattern Switcg.pdb
