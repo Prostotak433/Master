@@ -1,0 +1,11 @@
+D:\Repository\Master\Сollection.ArrayList\bin\Debug\netcoreapp2.1\Сollection.ArrayList.deps.json
+D:\Repository\Master\Сollection.ArrayList\bin\Debug\netcoreapp2.1\Сollection.ArrayList.runtimeconfig.json
+D:\Repository\Master\Сollection.ArrayList\bin\Debug\netcoreapp2.1\Сollection.ArrayList.runtimeconfig.dev.json
+D:\Repository\Master\Сollection.ArrayList\bin\Debug\netcoreapp2.1\Сollection.ArrayList.dll
+D:\Repository\Master\Сollection.ArrayList\bin\Debug\netcoreapp2.1\Сollection.ArrayList.pdb
+D:\Repository\Master\Сollection.ArrayList\obj\Debug\netcoreapp2.1\Сollection.ArrayList.csprojAssemblyReference.cache
+D:\Repository\Master\Сollection.ArrayList\obj\Debug\netcoreapp2.1\Сollection.ArrayList.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Сollection.ArrayList\obj\Debug\netcoreapp2.1\Сollection.ArrayList.AssemblyInfoInputs.cache
+D:\Repository\Master\Сollection.ArrayList\obj\Debug\netcoreapp2.1\Сollection.ArrayList.AssemblyInfo.cs
+D:\Repository\Master\Сollection.ArrayList\obj\Debug\netcoreapp2.1\Сollection.ArrayList.dll
+D:\Repository\Master\Сollection.ArrayList\obj\Debug\netcoreapp2.1\Сollection.ArrayList.pdb
