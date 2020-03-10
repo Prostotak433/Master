@@ -1,0 +1,11 @@
+C:\Users\LmA\source\repos\Collection.LisT1\bin\Debug\netcoreapp2.1\Collection.LisT1.deps.json
+C:\Users\LmA\source\repos\Collection.LisT1\bin\Debug\netcoreapp2.1\Collection.LisT1.runtimeconfig.json
+C:\Users\LmA\source\repos\Collection.LisT1\bin\Debug\netcoreapp2.1\Collection.LisT1.runtimeconfig.dev.json
+C:\Users\LmA\source\repos\Collection.LisT1\bin\Debug\netcoreapp2.1\Collection.LisT1.dll
+C:\Users\LmA\source\repos\Collection.LisT1\bin\Debug\netcoreapp2.1\Collection.LisT1.pdb
+C:\Users\LmA\source\repos\Collection.LisT1\obj\Debug\netcoreapp2.1\Collection.LisT1.csprojAssemblyReference.cache
+C:\Users\LmA\source\repos\Collection.LisT1\obj\Debug\netcoreapp2.1\Collection.LisT1.csproj.CoreCompileInputs.cache
+C:\Users\LmA\source\repos\Collection.LisT1\obj\Debug\netcoreapp2.1\Collection.LisT1.AssemblyInfoInputs.cache
+C:\Users\LmA\source\repos\Collection.LisT1\obj\Debug\netcoreapp2.1\Collection.LisT1.AssemblyInfo.cs
+C:\Users\LmA\source\repos\Collection.LisT1\obj\Debug\netcoreapp2.1\Collection.LisT1.dll
+C:\Users\LmA\source\repos\Collection.LisT1\obj\Debug\netcoreapp2.1\Collection.LisT1.pdb
