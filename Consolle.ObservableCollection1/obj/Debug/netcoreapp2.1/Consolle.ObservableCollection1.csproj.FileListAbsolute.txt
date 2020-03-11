@@ -1,0 +1,11 @@
+D:\Repository\Master\Consolle.ObservableCollection1\bin\Debug\netcoreapp2.1\Consolle.ObservableCollection1.deps.json
+D:\Repository\Master\Consolle.ObservableCollection1\bin\Debug\netcoreapp2.1\Consolle.ObservableCollection1.runtimeconfig.json
+D:\Repository\Master\Consolle.ObservableCollection1\bin\Debug\netcoreapp2.1\Consolle.ObservableCollection1.runtimeconfig.dev.json
+D:\Repository\Master\Consolle.ObservableCollection1\bin\Debug\netcoreapp2.1\Consolle.ObservableCollection1.dll
+D:\Repository\Master\Consolle.ObservableCollection1\bin\Debug\netcoreapp2.1\Consolle.ObservableCollection1.pdb
+D:\Repository\Master\Consolle.ObservableCollection1\obj\Debug\netcoreapp2.1\Consolle.ObservableCollection1.csprojAssemblyReference.cache
+D:\Repository\Master\Consolle.ObservableCollection1\obj\Debug\netcoreapp2.1\Consolle.ObservableCollection1.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Consolle.ObservableCollection1\obj\Debug\netcoreapp2.1\Consolle.ObservableCollection1.AssemblyInfoInputs.cache
+D:\Repository\Master\Consolle.ObservableCollection1\obj\Debug\netcoreapp2.1\Consolle.ObservableCollection1.AssemblyInfo.cs
+D:\Repository\Master\Consolle.ObservableCollection1\obj\Debug\netcoreapp2.1\Consolle.ObservableCollection1.dll
+D:\Repository\Master\Consolle.ObservableCollection1\obj\Debug\netcoreapp2.1\Consolle.ObservableCollection1.pdb
