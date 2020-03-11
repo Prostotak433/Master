@@ -1,0 +1,11 @@
+D:\Repository\Master\Collecionts.OperatorYield\bin\Debug\netcoreapp2.1\Collecionts.OperatorYield.deps.json
+D:\Repository\Master\Collecionts.OperatorYield\bin\Debug\netcoreapp2.1\Collecionts.OperatorYield.runtimeconfig.json
+D:\Repository\Master\Collecionts.OperatorYield\bin\Debug\netcoreapp2.1\Collecionts.OperatorYield.runtimeconfig.dev.json
+D:\Repository\Master\Collecionts.OperatorYield\bin\Debug\netcoreapp2.1\Collecionts.OperatorYield.dll
+D:\Repository\Master\Collecionts.OperatorYield\bin\Debug\netcoreapp2.1\Collecionts.OperatorYield.pdb
+D:\Repository\Master\Collecionts.OperatorYield\obj\Debug\netcoreapp2.1\Collecionts.OperatorYield.csprojAssemblyReference.cache
+D:\Repository\Master\Collecionts.OperatorYield\obj\Debug\netcoreapp2.1\Collecionts.OperatorYield.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Collecionts.OperatorYield\obj\Debug\netcoreapp2.1\Collecionts.OperatorYield.AssemblyInfoInputs.cache
+D:\Repository\Master\Collecionts.OperatorYield\obj\Debug\netcoreapp2.1\Collecionts.OperatorYield.AssemblyInfo.cs
+D:\Repository\Master\Collecionts.OperatorYield\obj\Debug\netcoreapp2.1\Collecionts.OperatorYield.dll
+D:\Repository\Master\Collecionts.OperatorYield\obj\Debug\netcoreapp2.1\Collecionts.OperatorYield.pdb
