@@ -1,0 +1,11 @@
+D:\Repository\Master\Collections.Dictionary1\bin\Debug\netcoreapp2.1\Collections.Dictionary1.deps.json
+D:\Repository\Master\Collections.Dictionary1\bin\Debug\netcoreapp2.1\Collections.Dictionary1.runtimeconfig.json
+D:\Repository\Master\Collections.Dictionary1\bin\Debug\netcoreapp2.1\Collections.Dictionary1.runtimeconfig.dev.json
+D:\Repository\Master\Collections.Dictionary1\bin\Debug\netcoreapp2.1\Collections.Dictionary1.dll
+D:\Repository\Master\Collections.Dictionary1\bin\Debug\netcoreapp2.1\Collections.Dictionary1.pdb
+D:\Repository\Master\Collections.Dictionary1\obj\Debug\netcoreapp2.1\Collections.Dictionary1.csprojAssemblyReference.cache
+D:\Repository\Master\Collections.Dictionary1\obj\Debug\netcoreapp2.1\Collections.Dictionary1.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Collections.Dictionary1\obj\Debug\netcoreapp2.1\Collections.Dictionary1.AssemblyInfoInputs.cache
+D:\Repository\Master\Collections.Dictionary1\obj\Debug\netcoreapp2.1\Collections.Dictionary1.AssemblyInfo.cs
+D:\Repository\Master\Collections.Dictionary1\obj\Debug\netcoreapp2.1\Collections.Dictionary1.dll
+D:\Repository\Master\Collections.Dictionary1\obj\Debug\netcoreapp2.1\Collections.Dictionary1.pdb
