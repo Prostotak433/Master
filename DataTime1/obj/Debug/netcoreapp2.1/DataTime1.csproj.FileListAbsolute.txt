@@ -1,0 +1,11 @@
+D:\Repository\Master\DataTime1\bin\Debug\netcoreapp2.1\DataTime1.deps.json
+D:\Repository\Master\DataTime1\bin\Debug\netcoreapp2.1\DataTime1.runtimeconfig.json
+D:\Repository\Master\DataTime1\bin\Debug\netcoreapp2.1\DataTime1.runtimeconfig.dev.json
+D:\Repository\Master\DataTime1\bin\Debug\netcoreapp2.1\DataTime1.dll
+D:\Repository\Master\DataTime1\bin\Debug\netcoreapp2.1\DataTime1.pdb
+D:\Repository\Master\DataTime1\obj\Debug\netcoreapp2.1\DataTime1.csprojAssemblyReference.cache
+D:\Repository\Master\DataTime1\obj\Debug\netcoreapp2.1\DataTime1.csproj.CoreCompileInputs.cache
+D:\Repository\Master\DataTime1\obj\Debug\netcoreapp2.1\DataTime1.AssemblyInfoInputs.cache
+D:\Repository\Master\DataTime1\obj\Debug\netcoreapp2.1\DataTime1.AssemblyInfo.cs
+D:\Repository\Master\DataTime1\obj\Debug\netcoreapp2.1\DataTime1.dll
+D:\Repository\Master\DataTime1\obj\Debug\netcoreapp2.1\DataTime1.pdb
