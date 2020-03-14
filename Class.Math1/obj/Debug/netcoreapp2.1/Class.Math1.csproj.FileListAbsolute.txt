@@ -1,0 +1,11 @@
+D:\Repository\Master\Class.Math1\bin\Debug\netcoreapp2.1\Class.Math1.deps.json
+D:\Repository\Master\Class.Math1\bin\Debug\netcoreapp2.1\Class.Math1.runtimeconfig.json
+D:\Repository\Master\Class.Math1\bin\Debug\netcoreapp2.1\Class.Math1.runtimeconfig.dev.json
+D:\Repository\Master\Class.Math1\bin\Debug\netcoreapp2.1\Class.Math1.dll
+D:\Repository\Master\Class.Math1\bin\Debug\netcoreapp2.1\Class.Math1.pdb
+D:\Repository\Master\Class.Math1\obj\Debug\netcoreapp2.1\Class.Math1.csprojAssemblyReference.cache
+D:\Repository\Master\Class.Math1\obj\Debug\netcoreapp2.1\Class.Math1.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Class.Math1\obj\Debug\netcoreapp2.1\Class.Math1.AssemblyInfoInputs.cache
+D:\Repository\Master\Class.Math1\obj\Debug\netcoreapp2.1\Class.Math1.AssemblyInfo.cs
+D:\Repository\Master\Class.Math1\obj\Debug\netcoreapp2.1\Class.Math1.dll
+D:\Repository\Master\Class.Math1\obj\Debug\netcoreapp2.1\Class.Math1.pdb
