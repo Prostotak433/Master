@@ -1,0 +1,11 @@
+D:\Repository\Master\Type.Lazy1\bin\Debug\netcoreapp2.1\Type.Lazy1.deps.json
+D:\Repository\Master\Type.Lazy1\bin\Debug\netcoreapp2.1\Type.Lazy1.runtimeconfig.json
+D:\Repository\Master\Type.Lazy1\bin\Debug\netcoreapp2.1\Type.Lazy1.runtimeconfig.dev.json
+D:\Repository\Master\Type.Lazy1\bin\Debug\netcoreapp2.1\Type.Lazy1.dll
+D:\Repository\Master\Type.Lazy1\bin\Debug\netcoreapp2.1\Type.Lazy1.pdb
+D:\Repository\Master\Type.Lazy1\obj\Debug\netcoreapp2.1\Type.Lazy1.csprojAssemblyReference.cache
+D:\Repository\Master\Type.Lazy1\obj\Debug\netcoreapp2.1\Type.Lazy1.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Type.Lazy1\obj\Debug\netcoreapp2.1\Type.Lazy1.AssemblyInfoInputs.cache
+D:\Repository\Master\Type.Lazy1\obj\Debug\netcoreapp2.1\Type.Lazy1.AssemblyInfo.cs
+D:\Repository\Master\Type.Lazy1\obj\Debug\netcoreapp2.1\Type.Lazy1.dll
+D:\Repository\Master\Type.Lazy1\obj\Debug\netcoreapp2.1\Type.Lazy1.pdb
