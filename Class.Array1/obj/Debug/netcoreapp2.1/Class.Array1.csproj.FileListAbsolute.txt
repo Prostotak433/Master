@@ -1,0 +1,11 @@
+D:\Repository\Master\Class.Array1\bin\Debug\netcoreapp2.1\Class.Array1.deps.json
+D:\Repository\Master\Class.Array1\bin\Debug\netcoreapp2.1\Class.Array1.runtimeconfig.json
+D:\Repository\Master\Class.Array1\bin\Debug\netcoreapp2.1\Class.Array1.runtimeconfig.dev.json
+D:\Repository\Master\Class.Array1\bin\Debug\netcoreapp2.1\Class.Array1.dll
+D:\Repository\Master\Class.Array1\bin\Debug\netcoreapp2.1\Class.Array1.pdb
+D:\Repository\Master\Class.Array1\obj\Debug\netcoreapp2.1\Class.Array1.csprojAssemblyReference.cache
+D:\Repository\Master\Class.Array1\obj\Debug\netcoreapp2.1\Class.Array1.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Class.Array1\obj\Debug\netcoreapp2.1\Class.Array1.AssemblyInfoInputs.cache
+D:\Repository\Master\Class.Array1\obj\Debug\netcoreapp2.1\Class.Array1.AssemblyInfo.cs
+D:\Repository\Master\Class.Array1\obj\Debug\netcoreapp2.1\Class.Array1.dll
+D:\Repository\Master\Class.Array1\obj\Debug\netcoreapp2.1\Class.Array1.pdb
