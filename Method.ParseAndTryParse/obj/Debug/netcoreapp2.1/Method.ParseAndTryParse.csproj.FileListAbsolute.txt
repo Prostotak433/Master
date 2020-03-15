@@ -1,0 +1,11 @@
+D:\Repository\Master\Method.ParseAndTryParse\bin\Debug\netcoreapp2.1\Method.ParseAndTryParse.deps.json
+D:\Repository\Master\Method.ParseAndTryParse\bin\Debug\netcoreapp2.1\Method.ParseAndTryParse.runtimeconfig.json
+D:\Repository\Master\Method.ParseAndTryParse\bin\Debug\netcoreapp2.1\Method.ParseAndTryParse.runtimeconfig.dev.json
+D:\Repository\Master\Method.ParseAndTryParse\bin\Debug\netcoreapp2.1\Method.ParseAndTryParse.dll
+D:\Repository\Master\Method.ParseAndTryParse\bin\Debug\netcoreapp2.1\Method.ParseAndTryParse.pdb
+D:\Repository\Master\Method.ParseAndTryParse\obj\Debug\netcoreapp2.1\Method.ParseAndTryParse.csprojAssemblyReference.cache
+D:\Repository\Master\Method.ParseAndTryParse\obj\Debug\netcoreapp2.1\Method.ParseAndTryParse.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Method.ParseAndTryParse\obj\Debug\netcoreapp2.1\Method.ParseAndTryParse.AssemblyInfoInputs.cache
+D:\Repository\Master\Method.ParseAndTryParse\obj\Debug\netcoreapp2.1\Method.ParseAndTryParse.AssemblyInfo.cs
+D:\Repository\Master\Method.ParseAndTryParse\obj\Debug\netcoreapp2.1\Method.ParseAndTryParse.dll
+D:\Repository\Master\Method.ParseAndTryParse\obj\Debug\netcoreapp2.1\Method.ParseAndTryParse.pdb
