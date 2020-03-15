@@ -1,0 +1,11 @@
+D:\Repository\Master\Span1\bin\Debug\netcoreapp2.1\Span1.deps.json
+D:\Repository\Master\Span1\bin\Debug\netcoreapp2.1\Span1.runtimeconfig.json
+D:\Repository\Master\Span1\bin\Debug\netcoreapp2.1\Span1.runtimeconfig.dev.json
+D:\Repository\Master\Span1\bin\Debug\netcoreapp2.1\Span1.dll
+D:\Repository\Master\Span1\bin\Debug\netcoreapp2.1\Span1.pdb
+D:\Repository\Master\Span1\obj\Debug\netcoreapp2.1\Span1.csprojAssemblyReference.cache
+D:\Repository\Master\Span1\obj\Debug\netcoreapp2.1\Span1.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Span1\obj\Debug\netcoreapp2.1\Span1.AssemblyInfoInputs.cache
+D:\Repository\Master\Span1\obj\Debug\netcoreapp2.1\Span1.AssemblyInfo.cs
+D:\Repository\Master\Span1\obj\Debug\netcoreapp2.1\Span1.dll
+D:\Repository\Master\Span1\obj\Debug\netcoreapp2.1\Span1.pdb
