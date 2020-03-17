@@ -7,16 +7,26 @@ namespace Class.Thread1
     {
         static void Main(string[] args)
         {
-            Thread t = Thread.CurrentThread;
-            Console.WriteLine($"Имя потока: {t.Name}");
-            t.Name = "Метод Main";
-            Console.WriteLine($"Имя потока: {t.Name}");
-            Console.WriteLine($"Запущен ли поток: {t.IsAlive}");
-            Console.WriteLine($"Приоритет потока: {t.Priority}");
-            Console.WriteLine($"Статус потока: {t.ThreadState}");
-
-            Console.WriteLine($"Домен приложения: {Thread.GetDomain().FriendlyName}");
-            Console.ReadLine();
+            Thread myThread = new Thread(Count);
+            myThread.Start();
+            
+            for(int i = 1; i<9; i++)
+            {
+                Console.WriteLine("Первый поток");
+                Console.WriteLine(i * i);
+                Thread.Sleep(300);
+                
+            }
+            Console.Read();
+        }
+        public static void Count()
+        {
+            for (int i = 1; i < 9; i++)
+            {
+                Console.WriteLine("Второй поток:");
+                Console.WriteLine(i * i);
+                Thread.Sleep(600);
+            }
         }
     }
 }
