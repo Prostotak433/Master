@@ -7,7 +7,10 @@ namespace Class.Thread1
     {
         static void Main(string[] args)
         {
-            Thread myThread = new Thread(Count);
+            Counter counter = new Counter(4,5);
+            
+
+            Thread myThread = new Thread(new ThreadStart(counter.Count));
             myThread.Start();
             
             for(int i = 1; i<9; i++)
@@ -19,14 +22,28 @@ namespace Class.Thread1
             }
             Console.Read();
         }
-        public static void Count()
+      
+        
+        public class Counter
         {
-            for (int i = 1; i < 9; i++)
+            private int _x;
+            private int _y;
+            public Counter(int x, int y)
             {
-                Console.WriteLine("Второй поток:");
-                Console.WriteLine(i * i);
-                Thread.Sleep(600);
+                this._x = x;
+                this._y = y;
             }
-        }
+            public void Count()
+            {
+                for (int i = 1; i < 9; i++)
+                {
+
+                    Console.WriteLine("Второй поток:");
+                    Console.WriteLine(i *_x* _y);
+                    Thread.Sleep(400);
+                }
+            }
+
+        }       
     }
 }
