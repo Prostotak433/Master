@@ -5,8 +5,8 @@ namespace Class.Thread1
 {
     class Program
     {
+        static AutoResetEvent waitHandler = new AutoResetEvent(true);
         static int x = 0;
-        static object locker = new object();
         static void Main(string[] args)
         {
             for (int i = 0; i < 5; i++)
@@ -19,10 +19,7 @@ namespace Class.Thread1
         }       
         public static void Count()
         {
-            bool acquireloock = false;
-            try
-            {
-                Monitor.Enter(locker, ref acquireloock);
+            waitHandler.WaitOne();
                 x = 1;
                 for (int i = 1; i < 9; i++)
                 {
@@ -30,11 +27,8 @@ namespace Class.Thread1
                     x++;
                     Thread.Sleep(100);
                 }
-            }
-            finally
-            {
-                if (acquireloock) Monitor.Exit(locker);
-            }
+            waitHandler.Set();
+          
         }
     }
 }
