@@ -5,45 +5,30 @@ namespace Class.Thread1
 {
     class Program
     {
+        static int x = 0;
+        static object locker = new object();
         static void Main(string[] args)
         {
-            Counter counter = new Counter(4,5);
-            
-
-            Thread myThread = new Thread(new ThreadStart(counter.Count));
-            myThread.Start();
-            
-            for(int i = 1; i<9; i++)
+            for (int i = 0; i < 5; i++)
             {
-                Console.WriteLine("Первый поток");
-                Console.WriteLine(i * i);
-                Thread.Sleep(300);
-                
+                Thread myThread = new Thread(Count);
+                myThread.Name = "Поток" + i.ToString();
+                myThread.Start();
             }
-            Console.Read();
-        }
-      
-        
-        public class Counter
+            Console.ReadLine();
+        }       
+        public static void Count()
         {
-            private int _x;
-            private int _y;
-            public Counter(int x, int y)
+            lock (locker)
             {
-                this._x = x;
-                this._y = y;
-            }
-            public void Count()
-            {
+                x = 1;
                 for (int i = 1; i < 9; i++)
                 {
-
-                    Console.WriteLine("Второй поток:");
-                    Console.WriteLine(i *_x* _y);
-                    Thread.Sleep(400);
+                    Console.WriteLine("{0}: {1}", Thread.CurrentThread.Name, x);
+                    x++;
+                    Thread.Sleep(100);
                 }
             }
-
-        }       
+        }
     }
 }
