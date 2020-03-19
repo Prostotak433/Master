@@ -7,36 +7,17 @@ namespace Class.Thread1
     {
         static void Main(string[] args)
         {
-            for(int i = 1; i < 6; i++)
-            {
-                Reader reader = new Reader(i);
-            }
+            int num = 0;
+            TimerCallback tm = new TimerCallback(Count);
+            Timer timer = new Timer(tm, num, 0, 2000);
             Console.ReadLine();
         }
-    }    
-    class Reader
-    {
-        static Semaphore sen = new Semaphore(3, 3);
-        Thread myThread;
-        int count = 3;
-        public Reader(int i)
+        public static void Count(object obj)
         {
-            myThread = new Thread(Read);
-            myThread.Name = $"Читатель {i.ToString()}";
-            myThread.Start();
-        }
-        public void Read()
-        {
-            while(count > 0)
+            int x = (int)obj;
+            for(int i = 1; i < 9; i++, x++)
             {
-                sen.WaitOne();
-                Console.WriteLine($"{Thread.CurrentThread.Name} входит в библиотеку");
-                Console.WriteLine($"{Thread.CurrentThread.Name} читает");
-                Thread.Sleep(1000);
-                Console.WriteLine($"{Thread.CurrentThread.Name} покидает библиотеку");
-                sen.Release();
-                count--;
-                Thread.Sleep(1000);
+                Console.WriteLine($"{x * i}");
             }
         }
     }
