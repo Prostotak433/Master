@@ -12,15 +12,17 @@ namespace Class.Thread1
             for (int i = 0; i < 5; i++)
             {
                 Thread myThread = new Thread(Count);
-                myThread.Name = "Поток" + i.ToString();
+                myThread.Name = $"Поток {i.ToString()}";
                 myThread.Start();
             }
             Console.ReadLine();
         }       
         public static void Count()
         {
-            lock (locker)
+            bool acquireloock = false;
+            try
             {
+                Monitor.Enter(locker, ref acquireloock);
                 x = 1;
                 for (int i = 1; i < 9; i++)
                 {
@@ -28,6 +30,10 @@ namespace Class.Thread1
                     x++;
                     Thread.Sleep(100);
                 }
+            }
+            finally
+            {
+                if (acquireloock) Monitor.Exit(locker);
             }
         }
     }
