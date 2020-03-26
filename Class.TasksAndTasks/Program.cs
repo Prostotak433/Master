@@ -8,34 +8,24 @@ namespace Class.Tasks1111
     {
         static void Main(string[] args)
         {
-            Task<int> task1 = new Task<int>(() => Factorial(5));
+            Task<int> task1 = new Task<int>(() => Sum(4, 5));
+
+            // задача продолжения
+            Task task2 = task1.ContinueWith(sum => Display(sum.Result));
+
             task1.Start();
-            Console.WriteLine($"Факториал числа 5 равен {task1.Result}");
 
-            Task<Book> task2 = new Task<Book>(() =>
-            {
-                return new Book { Title = "Война и мир", Author = "Л. Толстой" };
-            });
-            task2.Start();
-            Book b = task2.Result;  
-            Console.WriteLine($"Название книги: {b.Title}, автор: {b.Author}");
-
+            // ждем окончания второй задачи
+            task2.Wait();
+            Console.WriteLine("End of Main");
             Console.ReadLine();
         }
-        static int Factorial(int x)
+
+        static int Sum(int a, int b) => a + b;
+        static void Display(int sum)
         {
-            int result = 1;
-            for (int i = 1; i < x; i++)
-            {
-                result *= i;
-            }
-            return result;
+            Console.WriteLine($"Sum: {sum}");
         }
-    }
-    
-    public class Book
-    {
-        public string Title { get; set; }
-        public string Author { get; set; }
+
     }
 }
