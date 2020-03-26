@@ -1,0 +1,11 @@
+D:\Repository\Master\Class.TasksAndTasks\bin\Debug\netcoreapp2.1\Class.TasksAndTasks.deps.json
+D:\Repository\Master\Class.TasksAndTasks\bin\Debug\netcoreapp2.1\Class.TasksAndTasks.runtimeconfig.json
+D:\Repository\Master\Class.TasksAndTasks\bin\Debug\netcoreapp2.1\Class.TasksAndTasks.runtimeconfig.dev.json
+D:\Repository\Master\Class.TasksAndTasks\bin\Debug\netcoreapp2.1\Class.TasksAndTasks.dll
+D:\Repository\Master\Class.TasksAndTasks\bin\Debug\netcoreapp2.1\Class.TasksAndTasks.pdb
+D:\Repository\Master\Class.TasksAndTasks\obj\Debug\netcoreapp2.1\Class.TasksAndTasks.csprojAssemblyReference.cache
+D:\Repository\Master\Class.TasksAndTasks\obj\Debug\netcoreapp2.1\Class.TasksAndTasks.csproj.CoreCompileInputs.cache
+D:\Repository\Master\Class.TasksAndTasks\obj\Debug\netcoreapp2.1\Class.TasksAndTasks.AssemblyInfoInputs.cache
+D:\Repository\Master\Class.TasksAndTasks\obj\Debug\netcoreapp2.1\Class.TasksAndTasks.AssemblyInfo.cs
+D:\Repository\Master\Class.TasksAndTasks\obj\Debug\netcoreapp2.1\Class.TasksAndTasks.dll
+D:\Repository\Master\Class.TasksAndTasks\obj\Debug\netcoreapp2.1\Class.TasksAndTasks.pdb
