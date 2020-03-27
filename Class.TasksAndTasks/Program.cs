@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace Class.Tasks1111
 {
@@ -8,24 +9,20 @@ namespace Class.Tasks1111
     {
         static void Main(string[] args)
         {
-            Task<int> task1 = new Task<int>(() => Sum(4, 5));
-
-            // задача продолжения
-            Task task2 = task1.ContinueWith(sum => Display(sum.Result));
-
-            task1.Start();
-
-            // ждем окончания второй задачи
-            task2.Wait();
-            Console.WriteLine("End of Main");
+            ParallelLoopResult result = Parallel.ForEach<int>(new List<int>() { 1, 3, 5, 8 }, Factorial);
             Console.ReadLine();
         }
-
-        static int Sum(int a, int b) => a + b;
-        static void Display(int sum)
+       
+        static void Factorial(int x)
         {
-            Console.WriteLine($"Sum: {sum}");
+            int result = 1;
+            for(int i = 1; i <= x; i++)
+            {
+                result *= i;
+            }
+            Console.WriteLine($"Выполняется задача {Task.CurrentId}");
+            Console.WriteLine($"Факториал числа {x} равен {result}");
+            Thread.Sleep(3000);
         }
-
     }
 }
