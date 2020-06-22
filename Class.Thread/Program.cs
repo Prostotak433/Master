@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading;
 
 namespace Class.Thread1
 {
@@ -7,18 +6,36 @@ namespace Class.Thread1
     {
         static void Main(string[] args)
         {
-            int num = 0;
-            TimerCallback tm = new TimerCallback(Count);
-            Timer timer = new Timer(tm, num, 0, 2000);
+            Car bmw = new Car();
+            bmw.Print();
+            Car car = new Car();
+            car.carName = "Vaz";
+            car.carSpeed = 10;
+            for (int i = 0; i < 10; i++)
+            {
+                car.SpeedUp(10);
+                car.Print();
+            }
             Console.ReadLine();
         }
-        public static void Count(object obj)
+    }        
+    class Car
+    {
+        public string carName;
+        public int carSpeed;
+        public void Name(string carNameee)
         {
-            int x = (int)obj;
-            for(int i = 1; i < 9; i++, x++)
-            {
-                Console.WriteLine($"{x * i}");
-            }
+            this.carName = carNameee;
         }
+        public Car()
+        {
+            carName = "BMW";
+            carSpeed = 1;
+        }
+        public void Print()
+        {
+            Console.WriteLine("{0} have a speed {1}", carName, carSpeed);
+        }
+        public void SpeedUp(int delta) => carSpeed += delta;
     }
 }
