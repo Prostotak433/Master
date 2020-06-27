@@ -6,30 +6,36 @@ namespace Class.Thread
     {
         static void Main(string[] args)
         {
-            Car car = new Car();
-            car.TurnOnRadio(false);
-            car.numberPage = 30_000_000;
-            car.Name = "Serj";
-            Console.WriteLine(car.Name);
+            Car jetta = new Car();
+            jetta.Color = "Red";
+            jetta.Name = "Jetta";
+            jetta.Speed = 180;
+            jetta.Info();
+            Garage garage = new Garage(jetta, 3);
+            Console.WriteLine("{0}", garage.MyAuto.Name);
+            Console.WriteLine("{0}", garage.NumberOfCars);
         }
     }
-    class Radio
-    {
-        public void Power(bool turnOn)
-        {
-            Console.WriteLine("Radio on {0}", turnOn);
-        }
-    }
+   
     class Car
     {
-        
-        private string _name;
-        private Radio myRadio = new Radio();
-        public int numberPage;
-        public string Name { get { return _name; } set { _name = value; } }
-        public void TurnOnRadio(bool onOff)
+        public string Name { get; set; }
+        public int Speed { get; set; }
+        public string Color { get; set; }
+        public void Info()
         {
-            myRadio.Power(onOff);
+            Console.WriteLine("Name = {0}, Speed = {1}, Color = {2}", Name, Speed, Color);
+        }
+    }
+    class Garage
+    {
+        public int NumberOfCars { get; set; } = 1;
+        public Car MyAuto { get; set; } = new Car();
+       
+        public Garage(Car car, int number)
+        {
+            MyAuto = car;
+            NumberOfCars = number;
         }
     }
 }
