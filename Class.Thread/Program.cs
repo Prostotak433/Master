@@ -6,36 +6,22 @@ namespace Class.Thread
     {
         static void Main(string[] args)
         {
-            Car jetta = new Car();
-            jetta.Color = "Red";
-            jetta.Name = "Jetta";
-            jetta.Speed = 180;
-            jetta.Info();
-            Garage garage = new Garage(jetta, 3);
-            Console.WriteLine("{0}", garage.MyAuto.Name);
-            Console.WriteLine("{0}", garage.NumberOfCars);
+            Math math = new Math();
+                        Console.WriteLine(math.GetMath());
         }
     }
-   
-    class Car
+    partial class Math
     {
-        public string Name { get; set; }
-        public int Speed { get; set; }
-        public string Color { get; set; }
-        public void Info()
-        {
-            Console.WriteLine("Name = {0}, Speed = {1}, Color = {2}", Name, Speed, Color);
-        }
+        public int z = 3;
+        public int x = 4;
     }
-    class Garage
+    partial class Math
     {
-        public int NumberOfCars { get; set; } = 1;
-        public Car MyAuto { get; set; } = new Car();
-       
-        public Garage(Car car, int number)
+        public int y = 10;
+
+        public int GetMath()
         {
-            MyAuto = car;
-            NumberOfCars = number;
+            return y + z + x;
         }
     }
 }
