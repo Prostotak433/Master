@@ -6,22 +6,40 @@ namespace Class.Thread
     {
         static void Main(string[] args)
         {
-            Math math = new Math();
-                        Console.WriteLine(math.GetMath());
+            Employee employee = new Employee();
+
+            Console.WriteLine(employee.GetBenefitCost());
+            BenefitPackage benefitPackage = new BenefitPackage();
+            benefitPackage.setValue(100);
+            Console.WriteLine(employee.Benefits.ComputerPayReduction());
+            employee.Benefits = benefitPackage;
+            Console.WriteLine(employee.Benefits.ComputerPayReduction());
+            Console.ReadLine();
         }
     }
-    partial class Math
+    class BenefitPackage
     {
-        public int z = 3;
-        public int x = 4;
-    }
-    partial class Math
-    {
-        public int y = 10;
-
-        public int GetMath()
+        private double value = 125.0;
+        public void setValue(double value)
         {
-            return y + z + x;
+            this.value = value;
+        }
+        public double ComputerPayReduction()
+        {
+            return value;
+        }
+    }
+    class Employee
+    {
+        protected BenefitPackage empBenefist = new BenefitPackage();
+        public double GetBenefitCost()
+        {
+            return empBenefist.ComputerPayReduction();
+        }
+        public BenefitPackage Benefits
+        {
+            get { return empBenefist; }
+            set { empBenefist = value; }
         }
     }
 }
